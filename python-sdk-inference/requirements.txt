@@ -2,5 +2,3 @@ modzy-sdk==0.5.4
 opencv-python==4.5.2.54
 numpy==1.21.0
 matplotlib==3.4.2
-notebook==6.4.0 
-# jupyterlab==3.0.16
